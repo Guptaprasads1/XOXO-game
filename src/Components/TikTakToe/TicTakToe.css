@@ -4,8 +4,6 @@
 .header{
     margin-top: 10px;
     font-size: 60px;
-    display: flex;
-    justify-content: center;
     align-items: center;
     color: aqua;
 }
@@ -35,8 +33,10 @@
     height: 600px;
     width: 600px;
     margin: auto;
-    margin-left: 32%;
+    width: fit-content;
+
 }
+
 .message{
     color: aqua;
 }
