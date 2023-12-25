@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/XOXO-game/static/css/main.c4f9fe8d.css",
+    "main.css": "/XOXO-game/static/css/main.d9a3216d.css",
     "main.js": "/XOXO-game/static/js/main.7300cca6.js",
     "static/js/787.9b6324cd.chunk.js": "/XOXO-game/static/js/787.9b6324cd.chunk.js",
     "static/media/jerry.png": "/XOXO-game/static/media/jerry.f0cf2ba0720d4695f607.png",
     "static/media/tom.png": "/XOXO-game/static/media/tom.dac9c40c026378a582c4.png",
     "index.html": "/XOXO-game/index.html",
-    "main.c4f9fe8d.css.map": "/XOXO-game/static/css/main.c4f9fe8d.css.map",
+    "main.d9a3216d.css.map": "/XOXO-game/static/css/main.d9a3216d.css.map",
     "main.7300cca6.js.map": "/XOXO-game/static/js/main.7300cca6.js.map",
     "787.9b6324cd.chunk.js.map": "/XOXO-game/static/js/787.9b6324cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4f9fe8d.css",
+    "static/css/main.d9a3216d.css",
     "static/js/main.7300cca6.js"
   ]
 }
